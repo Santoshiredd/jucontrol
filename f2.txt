@@ -1,3 +1,7 @@
 i am in sep branch
  i am here
+<<<<<<< HEAD
  i am in main
+=======
+ this is sep
+>>>>>>> sep
